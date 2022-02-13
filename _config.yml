@@ -1,10 +1,10 @@
 # Site
-title:          Ramme
-bio:            'Just a simple Jekyll theme'
-description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
+title:          cine y anarquismo
+bio:            'Apuntes sobre cine y anarquismo'
+description:    "notas y reflexiones sobre la relación entre la producción cinematográfica y el anarquismo"
 picture:        'assets/img/Logo.png'
-locale:         en_US
-url:            https://taylantatli.github.io/Ramme
+locale:         es_MX
+url:            https://sbector.com/cine-y-anarquismo
 
 # Jekyll
 permalink:      /:title/
@@ -22,9 +22,9 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
-twitter: username
-facebook: username
+email: saulbector@gmail.com
+twitter: saulbector
+#facebook: username
 #google:
   #plus: #username
   #analytics:
@@ -32,18 +32,18 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+github: Sbector
+#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin: username
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+instagram: saulbector
+#lastfm: username
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
