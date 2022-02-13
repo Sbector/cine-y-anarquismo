@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: Home
+- title: LÉEME
+  url: /leeme/
+
+- title: incio
   url: /
 
-- title: Blog
-  url: /blog/
-
-- title: Projects
+- title: proyectos
   url: /projects/
-
-- title: About
-  url: /about/
+  
+- title: blog
+  url: /blog/

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Primera selección"
+title: "primera selección"
 date: 2022-02-12
-excerpt: "Justficación y búsqueda de pertinencia del ciclo de cine"
+excerpt: "justficación y búsqueda de pertinencia del ciclo de cine"
 tags: [compartir, ciclo de cine]
+project: true
 ---
 
-# Propaganda vs publicidad
 

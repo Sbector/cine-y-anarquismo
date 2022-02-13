@@ -1,17 +1,13 @@
 ---
-layout: page
-title: LÉEME
-tags: [about, Jekyll, theme, ramme]
-date: 2022-02-13
+layout: post
+title: "primera lista de películas"
+date: 2022-02-12
+excerpt: "lista a partir de lectura del libro 'cine y anarquismo: la utopía anarquista en imágenes'"
+tags: [compartir, ciclo de cine]
+project: true
 ---
 
-# prefacio
-
-Hace un tiempo encontré en la biblioteca de mi localidad un libro llamado Anarquismo y Cine que llamó profundamente mi atención. Pienso hacer una lista de las películas nombradas en las distintas partes del libro con el objetivo de buscarlas y por lo pronto hacer un ciclo de cine. Quizá eventualmente use algo del material que vaya encontrando para producir otros artefactos estéticos que inscribir en un circuito cultural, quizá algo más libre.
-
 ## introducción
-
-### lista de películas
 
 | película | año | director | paginas | links |
 | -- | -- | -- | -- | -- |
@@ -23,9 +19,7 @@ Hace un tiempo encontré en la biblioteca de mi localidad un libro llamado Anarq
 | Land and Freedom* | 1995 | Ken Loach | 22 | -- |
 | -- | -- | -- | -- | -- |
 
-## Representación y autorepresentación
-
-### lista de películas **representación y autorepresentación**
+## representación y autorepresentación
 
 | película | año | director | paginas | links |
 | -- | -- | -- | -- | -- |
