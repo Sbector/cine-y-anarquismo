@@ -6,5 +6,7 @@ excerpt: "estética y anarquismo"
 tags: [compartir, ciclo de cine]
 ---
 
-# propaganda vs publicidad
+# ¿existe el arte anarquista?
+
+alguna vez leí que eso era una especie de oxímoron, que el mayor acercamiento que pudiera tener el anarquismo al arte sería la propaganda.
 
