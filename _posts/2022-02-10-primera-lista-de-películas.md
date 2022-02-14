@@ -7,6 +7,8 @@ tags: [compartir, ciclo de cine]
 project: true
 ---
 
+{% include toc.html %}
+
 ## introducción
 
 | película | año | director | paginas | links |

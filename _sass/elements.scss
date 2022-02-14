@@ -1,17 +1,17 @@
 a {
 	text-decoration: none;
-	color: $color_7;
+	color: $color_4;
 	transition: all .5s;
 	&:visited {
-		color: $color_8;
+		color: $color_4;
 	}
 	&:hover {
-		color: $color_9;
+		color: $color_1;
 		outline: 0;
 	}
 	&:focus {
 		outline: 0;
-		color: $color_7;
+		color: $color_0;
 	}
 	&:active {
 		border: 0;
