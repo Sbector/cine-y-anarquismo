@@ -5,6 +5,7 @@ description:    "notas y reflexiones sobre la relación entre la producción cin
 picture:        'assets/img/Logo.png'
 locale:         es_MX
 url:            https://sbector.com/cine-y-anarquismo
+baseurl:        https://sbector.com/cine-y-anarquismo/
 
 # Jekyll
 permalink:      /:title/
