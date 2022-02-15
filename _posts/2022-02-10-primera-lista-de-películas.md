@@ -25,9 +25,9 @@ Memorias de un revolucionario.
 
 | película | año | director | paginas | links |
 | -- | -- | -- | -- | -- |
-| tout va bien | 1972 | Jean Luc Godard, Jean Pierre Gorin | 16 | [the pirate bay](https://thepiratebay.org/description.php?id=36246283) |
+| tout va bien | 1972 | Jean Luc Godard, Jean Pierre Gorin | 16 | [yts](https://yts.mx/movies/tout-va-bien-1972) |
 | La classe opperaria va in paraiso | 1971 | Elio  Petri| 16 | [youtube](https://www.youtube.com/watch?v=fNcxxBjEOgw) |
-| High School | 1968 | Frederick Wiseman | 16 | -- |
+| High School | 1968 | Frederick Wiseman | 16 | [blogspot](https://scalisto.blogspot.com/2022/01/frederick-wiseman-high-school-1969.html) |
 | Zéro de conduite | 1933 | Jean Vigo | 16 | [youtube](https://www.youtube.com/watch?v=WlSS4Bf8rpU) |
 | L'Age d'or* | 1930 | Luis Buñuel | 22 | -- |
 | Land and Freedom* | 1995 | Ken Loach | 22 | -- |
