@@ -15,6 +15,7 @@ project: true
 | 1971 | La classe opperaria va in paraiso                 | Elio Petri                                |
 | 1971 | San Michele aveva un gallo                        | Paolo y Vittorio Taviani                  |
 | 1972 | tout va bien                                      | Jean Luc Godard, Jean Pierre Gorin        |
+| 1973 | Themroc                                           | Claude Faraldo                            |
 | 1974 | Sweet Movie                                       | Dušan Makavejev                           |
 | 1976 | La última cena                                    | Tomás Gutiérrez Alea                      |
 | 1979 | Apocalypse Now                                    | Francis Coppola                           |

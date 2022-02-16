@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-16T00:58:36-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">cine y anarquismo</title><subtitle>notas y reflexiones sobre la relación entre la producción cinematográfica y el anarquismo</subtitle><entry><title type="html">lista por año</title><link href="http://localhost:4000/lista-por-a%C3%B1o/" rel="alternate" type="text/html" title="lista por año" /><published>2022-02-15T00:00:00-06:00</published><updated>2022-02-15T00:00:00-06:00</updated><id>http://localhost:4000/lista%20por%20a%C3%B1o</id><content type="html" xml:base="http://localhost:4000/lista-por-a%C3%B1o/">&lt;table&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-16T01:39:54-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">cine y anarquismo</title><subtitle>notas y reflexiones sobre la relación entre la producción cinematográfica y el anarquismo</subtitle><entry><title type="html">lista por año</title><link href="http://localhost:4000/lista-por-a%C3%B1o/" rel="alternate" type="text/html" title="lista por año" /><published>2022-02-15T00:00:00-06:00</published><updated>2022-02-15T00:00:00-06:00</updated><id>http://localhost:4000/lista%20por%20a%C3%B1o</id><content type="html" xml:base="http://localhost:4000/lista-por-a%C3%B1o/">&lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;año&lt;/th&gt;
@@ -36,6 +36,11 @@
       &lt;td&gt;1972&lt;/td&gt;
       &lt;td&gt;tout va bien&lt;/td&gt;
       &lt;td&gt;Jean Luc Godard, Jean Pierre Gorin&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1973&lt;/td&gt;
+      &lt;td&gt;Themroc&lt;/td&gt;
+      &lt;td&gt;Claude Faraldo&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1974&lt;/td&gt;
@@ -276,4 +281,4 @@ Memorias de un revolucionario.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;mutual aid, Kropotkin&lt;/li&gt;
   &lt;li&gt;Ah, wilderness, Eugene O’Neill&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="compartir" /><category term="ciclo de cine" /><summary type="html">lista a partir de lectura del libro 'cine y anarquismo: la utopía anarquista en imágenes'</summary></entry><entry><title type="html">ciclo de cine</title><link href="http://localhost:4000/ciclo-de-cine/" rel="alternate" type="text/html" title="ciclo de cine" /><published>2022-02-12T00:00:00-06:00</published><updated>2022-02-12T00:00:00-06:00</updated><id>http://localhost:4000/ciclo-de-cine</id><content type="html" xml:base="http://localhost:4000/ciclo-de-cine/"></content><author><name></name></author><category term="compartir" /><category term="ciclo de cine" /><summary type="html">justficación y búsqueda de pertinencia del ciclo de cine</summary></entry><entry><title type="html">propaganda vs publicidad</title><link href="http://localhost:4000/propaganda-vs-publicidad/" rel="alternate" type="text/html" title="propaganda vs publicidad" /><published>2022-02-12T00:00:00-06:00</published><updated>2022-02-12T00:00:00-06:00</updated><id>http://localhost:4000/propaganda-vs-publicidad</id><content type="html" xml:base="http://localhost:4000/propaganda-vs-publicidad/"></content><author><name></name></author><category term="compartir" /><category term="ciclo de cine" /><summary type="html">estética y anarquismo</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="compartir" /><category term="ciclo de cine" /><summary type="html">lista a partir de lectura del libro 'cine y anarquismo: la utopía anarquista en imágenes'</summary></entry><entry><title type="html">ciclo de cine</title><link href="http://localhost:4000/ciclo-de-cine/" rel="alternate" type="text/html" title="ciclo de cine" /><published>2022-02-12T00:00:00-06:00</published><updated>2022-02-12T00:00:00-06:00</updated><id>http://localhost:4000/ciclo-de-cine</id><content type="html" xml:base="http://localhost:4000/ciclo-de-cine/"></content><author><name></name></author><category term="compartir" /><category term="ciclo de cine" /><summary type="html">justficación y búsqueda de pertinencia del ciclo de cine</summary></entry></feed>
