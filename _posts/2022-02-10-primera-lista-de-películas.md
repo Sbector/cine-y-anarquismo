@@ -35,6 +35,8 @@ Memorias de un revolucionario.
 
 # representación y autorepresentación
 
+## El cine y el "peligro anarquista":
+
 | película | año | director | paginas | links |
 | -- | -- | -- | -- | -- |
 | Cops | 1922 | Edward F. Cline y Buster Keaton | 26 | [youtube](https://www.youtube.com/watch?v=asEgQZhShLk) |
