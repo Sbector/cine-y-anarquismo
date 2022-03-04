@@ -9,7 +9,7 @@ tags: [realismo poético]
 {% include toc.html %}
 
 > "ANARQUÍA, queridos niños, es la doctrina que no conformándose con la organización que se ha impreso a la humanidad, desde los tiempos en que empezaron a crear la Sociedad, intenta dar una constitución a la vida basada en los principios sacrosantos del amor universal y de la solidaridad humana. 
-
+>
 > Su misión es hacer cesar la desigualdad reinante entre los seres que los divide en pobres y ricos, explotados y explotadores, esclavos y dominadores. Que la Vida sea tal cual debe ser: la libre manifestación de las facultades, la espontaneidad de los actos, la liberación final destruyendo las causas que se oponen a que la sociedad se base en la más plena libertad y en la más absoluta independencia."
 
 <div style="text-align: right"> La Anarquía explicada a los niños, José Antonio Emmanuel </div>
@@ -34,7 +34,7 @@ Posterior a cada proyección me daré un momento para escribir sobre lo aconteci
 
 Uno de los principales objetivos que tenía de este proyecto de ciclo de cine es justamente que se diera una conversación al final de la película. Quizá soy un nostálgico pero recuerdo con bastante agrado aquel cine club al que asistía cuando iba en la secundaria; en ese cine club llegué a ver películas que me marcaron, aunque siento que mucho de ello se debe a que al final de cada proyección se daba un momento para conversar sobre lo que acabábamos de ver.
 
-Esta noche hubimos al rededor de 8 personas para ver la primera función, una película que consideraba un poco difícil pero siento que fue un gran ejercicio. Al final tomé la palabra para preguntar qué tal les había parecido la película e hice algunas anotaciones sobre los logros técnicos que representó esa película y los motivos por los cuales decidí incuirla. Fue agradable escuchar cómo casi todos los ahí presentes tenían algo que agregar a los comentarios finales, tanto en aspectos técnicos, como simbólicos de la película. Por ejemplo, la animación que dibuja el supervisor que fue quien coopera con cierta negligencia en su rol para que suceda la rebelión de los niños.
+Esta noche asistimos al rededor de 8 personas para ver la primera función, una película que consideraba un poco difícil pero siento que fue un gran ejercicio. Al final de la proyección tomé la palabra para preguntar qué tal les había parecido la película e hice algunas anotaciones sobre los logros técnicos que representó esa película y los motivos por los cuales decidí incuirla. Fue agradable escuchar cómo casi todos los ahí presentes tenían algo que agregar a los comentarios finales, tanto en aspectos técnicos, como simbólicos de la película. Por ejemplo, la animación que dibuja el supervisor que fue quien coopera con cierta negligencia en su rol para que suceda la rebelión de los niños.
 
 Además, se compartieron otras cosas que no necesariamente están vinculadas a esta película pero que son el motivo por el cual se está realizando este ciclo. Alguien habló del movimiento de _Los Frikis_ de Cuba, planteando que en el contexto del comunismo encontraron formas de rebelarse a partir de un consumo musical. Se agregó también el tema del secuestro de Patty Hearts, un caso famoso en el que la hija de William Randolph Hearst, magnate de medios de comunicación, fue secuestrada por la organización SLA (Symbionese Liberation Army) a la que terminó uniéndose por un tiempo; caso del cual existen películas que serán agregadas a la lista para ser revisadas posteriormente en este blog.
 
