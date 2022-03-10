@@ -12,7 +12,7 @@ tags: [realismo poético]
 >
 > Su misión es hacer cesar la desigualdad reinante entre los seres que los divide en pobres y ricos, explotados y explotadores, esclavos y dominadores. Que la Vida sea tal cual debe ser: la libre manifestación de las facultades, la espontaneidad de los actos, la liberación final destruyendo las causas que se oponen a que la sociedad se base en la más plena libertad y en la más absoluta independencia."
 
-<div style="text-align: right"> La Anarquía explicada a los niños, José Antonio Emmanuel </div>
+<div style="text-align: right"> <em>La Anarquía explicada a los niños</em>, José Antonio Emmanuel </div>
 
 ## Lirismo antiautoritario
 
