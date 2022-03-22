@@ -43,3 +43,11 @@ Leer esto me hace pensar que la academia y no la ciencia, de la cual la academia
 [CineMaldito.com](https://www.cinemaldito.com/paolo-taviani-y-vittorio-taviani-a-examen/)  
 
 Una mocedad, que los Taviani enlazan sin rubor con los jóvenes italianos de los setenta post mayo del 68, que alberga pocos hilos de esperanza para los ojos de esa generación de marxistas idealistas (como los Taviani) que vieron como su mundo se derrumbaba vencido por la desidia y la desfachatez que acabó conquistando el mundo occidental. Un occidente frívolo, superficial, lastrado por la ambición, por el destello cegador del dinero, por el éxito a cualquier precio, por el individualismo y el odio, por ridiculizar al vecino y compañero, por las ansias de poder, por el sexo y los instintos menos reflexivos. Unos vicios tan presentes en la actualidad que impiden cualquier conato de fe en nuestro futuro.
+
+## Notas posteriores a la proyección
+
+Esto no es una historia, es una anécdota.
+
+## Paramos la película a 30 minutos del final
+
+Fue una decisión que se planteó en una conversación y que se resolvió por medio de un volado (aguila o sol). En la sála sólo estábamos los que dirigen el espacio y yo. 
