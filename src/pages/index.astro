@@ -1,21 +1,9 @@
 ---
-import IslandTest from "../components/IslandTest";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const title = 'Pagina de inicio'
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		 <a href="/">Inicio</a>
-        <a href="/about/">Sobre mi</a>
-        <a href="/blog/">blog</a>
-
-		<h1>Astro</h1>
-		<p>Hola! Este es un test de astro</p>
-	</body>
-</html>
+<BaseLayout title={title}>
+	<h2>Mi impresionante sitio</h2>
+</BaseLayout>

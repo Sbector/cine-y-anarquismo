@@ -1,21 +1,57 @@
 ---
-import IslandTest from "../components/IslandTest";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const title = "Sobre mi";
+
+const identity = {
+    firstName: "Saul",
+    country: "Guadalajara",
+    occupation: "Escritor técnico",
+    hobbies: ["fotografia", "observación de aves", "peñarol"],
+};
+
+const skills = [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Astro",
+    "Redacción de documentos",
+];
+
+const happy = true;
+const finished = false;
+const goal = 3;
+
 ---
 
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-        <meta name="viewport" content="width=device-width" />
-        <meta name="generator" content={Astro.generator} />
-        <title>Astro</title>
-    </head>
-    <body>
-         <a href="/">Inicio</a>
-        <a href="/about/">Sobre mi</a>
-        <a href="/blog/">blog</a>
+<BaseLayout title={title}>
+    <p>Algunos datos sobre mi</p>
+    <ul>
+        <li>Me llamo {identity.firstName}</li>
+        <li>Vivo en {identity.country}</li>
+        {
+            identity.hobbies.length >= 2 && (
+                <li>
+                    Dos de mis aficiones son: {identity.hobbies[0]} y{" "}
+                    {identity.hobbies[1]}
+                </li>
+            )
+        }
+    </ul>
+    <p>Mis habilidades son:</p>
+    <ul>
+        {skills.map((skill) => <li class="skill">{skill}</li>)}
+    </ul>
+    {happy && <p>¡Estoy feliz de aprender Astro!</p>}
 
-        <h1>Sobre mi</h1>
-        <p>Hola! soy yo</p>
-    </body>
-</html>
+    {finished && <p>¡He terminado este tutorial!</p>}
+
+    {
+        goal === 3 ? (
+            <p>Mi objetivo es terminar en 3 días.</p>
+        ) : (
+            <p>Mi objetivo no son 3 días.</p>
+        )
+    }</BaseLayout
+>
